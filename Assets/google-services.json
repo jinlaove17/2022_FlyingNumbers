@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801664790643",
+    "firebase_url": "https://flyingnumbers-cbdb3-default-rtdb.firebaseio.com/",
+    "project_id": "flyingnumbers-cbdb3",
+    "storage_bucket": "flyingnumbers-cbdb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801664790643:android:5f3420be6bd9d8cfd6ba06",
+        "android_client_info": {
+          "package_name": "com.firebase.flyingnumbers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801664790643-tkos8rkpngumbr4l2vquva3lkl891rb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzM33LnzrUQMLc7E6zYYJTvFmzN0f1kjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801664790643-tkos8rkpngumbr4l2vquva3lkl891rb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
